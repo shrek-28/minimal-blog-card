@@ -1,0 +1,67 @@
+.head{
+    font-family: 'Sora', sans-serif;
+}
+
+.blog-card{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding:10px;
+    width: 336px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 5%;
+}
+
+img{
+    height: 152px;
+    width: 336px;
+    border-radius: 2%;
+}
+
+.design{
+    font-size: 0.625rem;
+    padding-bottom: 16px;
+    padding-top: 16px;
+    padding-right: 16px;
+    font-family: 'Sora', sans-serif;
+}
+
+.design-font{
+    color: #883AE1;
+    background-color: #E6D6FC;
+    padding-bottom: 6px;
+    padding-top: 6px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 7%;
+    font-weight: bold;
+}
+
+
+.head{
+    font-weight: bold;
+    font-size: 1.125rem;
+    padding-bottom: 6px;
+}
+
+.description{
+    font-weight: normal;
+    font-size: 0.875rem;
+    font-family: 'Sora', sans-serif;
+    padding-bottom: 20px;
+    color: #6C727F;
+    border-bottom-width: thin;
+}
+
+hr{
+    color:#6C727F;
+}
+
+.author{
+    font-family: 'Sora', sans-serif;
+    font-size: 0.75rem;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #6C727F;
+}
